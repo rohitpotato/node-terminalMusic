@@ -14,7 +14,10 @@
 
 <b> How to use: </b>
 
- <p> Run ``` node server.js --a="song_name" ``` </p>
+ <p> Run ``` 
+      node server.js --a="song_name" 
+ 
+    ``` </p>
  
  <p> Example: ``` node server.js --a="Pink Floyd - hey you" ``` </p>
  

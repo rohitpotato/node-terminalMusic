@@ -1,4 +1,4 @@
 module.exports = {
 
-	API_KEY: 'AIzaSyAFvfsH_SzlIFGUFI7b6ROoRHYhZmXLBJY'
+	API_KEY: 'YOUR YOUTUBE DATA API KEY'
 };

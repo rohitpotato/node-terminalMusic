@@ -14,13 +14,20 @@
 
 <b> How to use: </b>
 
- <p> Run ``` 
-      node server.js --a="song_name" 
+ <h3> Run 
+    
+    ```  node server.js --a="song_name"  ``` 
+ </h3>
  
-    ``` </p>
- 
- <p> Example: ``` node server.js --a="Pink Floyd - hey you" ``` </p>
+ <h3> Example: 
+    
+    ``` node server.js --a="Pink Floyd - hey you" ``` 
+ </h3>
  
  <p> You can also pass multiple values to the --a parameter seprating them with a comma ',' </p>
  
- <p> Example: ``` node server.js --a="Pink Floyd - hey you, Pink Floyd - Another brick" ``` </p>
+ <h3> Example: 
+   
+    ``` node server.js --a="Pink Floyd - hey you, Pink Floyd - Another brick" ``` 
+    
+ </h3>

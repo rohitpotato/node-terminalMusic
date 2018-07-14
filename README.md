@@ -16,18 +16,18 @@
 
  <h3> Run 
     
-    ```  node server.js --a="song_name"  ``` 
+      node server.js --a="song_name"  
  </h3>
  
  <h3> Example: 
     
-    ``` node server.js --a="Pink Floyd - hey you" ``` 
+     node server.js --a="Pink Floyd - hey you"  
  </h3>
  
  <p> You can also pass multiple values to the --a parameter seprating them with a comma ',' </p>
  
  <h3> Example: 
    
-    ``` node server.js --a="Pink Floyd - hey you, Pink Floyd - Another brick" ``` 
+     node server.js --a="Pink Floyd - hey you, Pink Floyd - Another brick"  
     
  </h3>

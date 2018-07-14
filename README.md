@@ -12,7 +12,9 @@
 
 <p> 3. Copy the library in the project root directory and name the folder to ffmpeg </p>
 
-<p> 4. Obtain a YOUTUBE DATA API KEY from the google developer console. </p>
+<p> 4. Obtain a <b>YOUTUBE DATA API KEY</b> from the google developer console. </p>
+
+<p> 5. Create a downloads folder in the project root directory </p>
 
 <b> How to use: </b>
 
